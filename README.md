@@ -22,4 +22,4 @@ Obj為自定義的資料結構，cmp為compare function，你需要實作compare
 
 參數依序為:list,foront,end,cmp_ptr
 
-list可為array、vector，若是一個int array，如int a[20]; 則front為0，end為19
+list可為array、vector，若是一個int array，如int list[20]; 則front為0，end為19
