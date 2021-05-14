@@ -20,6 +20,6 @@ Obj為自定義的資料結構，cmp為compare function，你需要實作compare
 # 3. Create sort object and call sort
 ![obj](https://user-images.githubusercontent.com/42535879/118249398-f9644b00-b4d7-11eb-814e-336af765ab7a.PNG)
 
-參數依序為:list,foront,end,cmp_ptr
+參數依序為:list,front,end,cmp_ptr
 
 list可為array、vector，若是一個int array，如int list[20]; 則front為0，end為19
